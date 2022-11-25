@@ -30,5 +30,7 @@
 
 > git branch -d <branch_name> - удалить ветку с именем branch_name
 
+# Осномные команды 3 семинара
+
 
 <https://git-scm.com>
